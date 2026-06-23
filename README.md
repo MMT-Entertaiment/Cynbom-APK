@@ -374,16 +374,6 @@ Tout contributeur dont la PR est acceptée sera crédité dans le README et les 
 
 ## 👥 Crédits
 
-**Fondateur & Développeur :** Uzy (uzyd00rm4n)
-- Fondateur de MMT Entertaiment
-- Développeur Studio MStudio Web
-- Éditeur MMT Entertaiment
-
-**Structure organisationnelle :**
-- MMT Entertaiment (parent)
-- MStudio (filiale jeux/apps/sites)
-- MStudio Web (filiale web/apps)
-
 **Technologies :**
 - Frontend : HTML5, CSS3, JavaScript, Google Sans, Material Design
 - Backend : Node.js, Express, better-sqlite3, Discord.js Bot
@@ -391,7 +381,7 @@ Tout contributeur dont la PR est acceptée sera crédité dans le README et les 
 - Icons : Material Design Icons (Google Fonts)
 
 **Contributeurs :**
-Les contributeurs qui améliorent Cynbom via des Pull Requests seront crédités selon leur choix (pseudo GitHub, pseudo personnalisé, prénom+initiale, ou nom complet). Voir la page [Crédits](https://mmt-entertaiment.github.io/Cynbom/credit.html) pour plus de détails.
+Les contributeurs qui améliorent Cynbom via des Pull Requests ou les Issue seront crédités selon leur choix (pseudo GitHub, pseudo personnalisé, prénom+initiale, ou nom complet). Voir la page [Crédits](https://mmt-entertaiment.github.io/Cynbom/credit.html) pour plus de détails.
 
 ---
 
