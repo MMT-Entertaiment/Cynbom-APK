@@ -4,16 +4,16 @@ App Android native en **Kotlin** pour Cynbom - Plateforme de streaming indépend
 
 ## 📋 Table des matières
 
-- [Structure du projet](#structure-du-projet)
-- [Configuration](#configuration)
-- [Features](#features)
-- [Icons incluées](#icons-incluées)
-- [Installation](#installation)
-- [Architecture](#architecture)
-- [Network Management](#network-management)
-- [API](#api)
-- [Fichiers clés](#fichiers-clés)
-- [Troubleshooting](#troubleshooting)
+- Structure du projet
+- Configuration
+- Features
+- Icons incluées
+- Installation
+- Architecture
+- Network Management
+- API
+- Fichiers-clés
+- Troubleshooting
 
 ## 🏗️ Structure du projet
 
