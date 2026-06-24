@@ -368,7 +368,7 @@ Tout contributeur dont la PR est acceptée sera crédité dans le README et les 
 
 ## 📄 Licence
 
-© 2024-2026 MMT Entertaiment - Projet fan non officiel
+© 2024-2026 MMT Entertaiment - Studio créatif indépendant
 
 ---
 
